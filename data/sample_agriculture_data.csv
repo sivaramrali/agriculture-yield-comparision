@@ -1,0 +1,14 @@
+state,district,crop,year,season,area,production,yield
+Andhra Pradesh,Krishna,Paddy,2022,Kharif,1000,4000,4.0
+Andhra Pradesh,Krishna,Paddy,2023,Kharif,1050,4400,4.1905
+Andhra Pradesh,Krishna,Paddy,2024,Kharif,1100,4600,4.1818
+Andhra Pradesh,Guntur,Paddy,2022,Kharif,900,3600,4.0
+Andhra Pradesh,Guntur,Paddy,2023,Kharif,920,3500,3.8043
+Andhra Pradesh,Guntur,Paddy,2024,Kharif,950,3800,4.0
+Andhra Pradesh,West Godavari,Paddy,2022,Kharif,1200,5000,4.1667
+Andhra Pradesh,West Godavari,Paddy,2023,Kharif,1250,5300,4.24
+Andhra Pradesh,West Godavari,Paddy,2024,Kharif,1300,5700,4.3846
+Andhra Pradesh,Krishna,Maize,2022,Rabi,400,1800,4.5
+Andhra Pradesh,Krishna,Maize,2023,Rabi,420,1900,4.5238
+Andhra Pradesh,Guntur,Groundnut,2022,Rabi,600,900,1.5
+Andhra Pradesh,Guntur,Groundnut,2023,Rabi,620,950,1.5323
